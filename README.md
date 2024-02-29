@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AshrafAlii?theme=dark)
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" width="40px"></img>
+
