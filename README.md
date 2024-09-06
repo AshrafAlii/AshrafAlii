@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ali.mohdashraf02@gmail.com**
 
-- ⚡ Fun fact **I an funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
