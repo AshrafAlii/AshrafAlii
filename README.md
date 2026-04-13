@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashraf Ali</h1>
+<h1 align="center">Hi, I'm Ashraf Ali</h1>
 <h3 align="center">A passionate Java programmer </h3>
 
 - 📫 How to reach me **ali.mohdashraf02@gmail.com**
