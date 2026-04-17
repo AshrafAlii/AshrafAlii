@@ -20,7 +20,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafalii&" alt="ashrafalii" /></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AshrafAlii?theme=dark)
-
-
-
-fix this 
