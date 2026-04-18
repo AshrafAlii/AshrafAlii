@@ -1,22 +1,33 @@
-<h1 align="center">Hi, I'm Ashraf Ali</h1>
-<h3 align="center">A passionate Java programmer </h3>
+# Ashraf Ali
 
-- 📫 How to reach me **ali.mohdashraf02@gmail.com**
+Java & Full-Stack Developer · Noida, Delhi NCR
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashrafali2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafali2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashrafalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashrafalii" height="30" width="40" /></a>
-</p>
+Building backend systems with Java & Spring Boot. Interested in scalable APIs, clean architecture, and solving real problems with code. Currently seeking entry-level roles in software development.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Tech Stack**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafalii&show_icons=true&locale=en&layout=compact" alt="ashrafalii" /></p>
+`Java` `Spring Boot` `MySQL` `MongoDB` `REST APIs` `JavaScript` `HTML/CSS` `Python`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafalii&show_icons=true&locale=en" alt="ashrafalii" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafalii&" alt="ashrafalii" /></p>
+**Projects**
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/AshrafAlii?theme=dark)
+| Project | Description |
+|---|---|
+| [Finance Dashboard API](https://github.com/ashrafalii) | Spring Boot 3.2, JWT auth, role-based access control, MySQL |
+| [Repolens](https://github.com/ashrafalii) | Media gallery using GitHub as storage backend — drag-and-drop upload, video playback |
+| [Patient Dashboard](https://github.com/ashrafalii) | Live API integration, Chart.js visualizations, Basic Auth |
+
+---
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashrafali2002-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashrafali2002)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AshrafAlii-orange?style=flat&logo=leetcode)](https://leetcode.com/ashrafalii)
+[![Email](https://img.shields.io/badge/Email-ali.mohdashraf02@gmail.com-gray?style=flat&logo=gmail)](mailto:ali.mohdashraf02@gmail.com)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ashrafalii&layout=compact&hide_border=true)
