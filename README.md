@@ -8,7 +8,7 @@ Building backend systems with Java & Spring Boot. Interested in scalable APIs, c
 
 **Tech Stack**
 
-`Java` `Spring Boot` `MySQL` `MongoDB` `REST APIs` `JavaScript` `HTML/CSS` `Python`
+`Java` `Spring Boot` `MySQL` `MongoDB` `REST APIs` `Python` `Microservices` 
 
 ---
 
